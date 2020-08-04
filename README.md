@@ -1,3 +1,4 @@
 # scala_kmeans_outlier_detection
 
-Input argument: filename.csv
+Input: filename.csv
+Output: Running time, Outlier points detected

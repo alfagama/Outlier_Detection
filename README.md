@@ -1,4 +1,4 @@
-# scala_kmeans_outlier_detection
+# Outlier_Detection
 
 Input: filename.csv
 

@@ -13,7 +13,7 @@ import org.apache.spark.sql.expressions.Window
 
 //import org.apache.spark.mllib.clustering.KMeans
 
-object ProjectB_kmeans_outlier_detection {
+object Outliers {
 
 
   def main(args: Array[String]): Unit = {
